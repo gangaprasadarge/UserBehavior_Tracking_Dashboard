@@ -44,7 +44,7 @@ This dashboard is designed for data analysts, platform managers, and business st
 👤 Author
 
 Arge Ganga Prasad
-Aspiring Data Analyst | Excel & Dashboard Enthusiast  
+Aspiring Data Analyst | SQL & Power BI Dashboard Enthusiast  
 
 📫 [LinkedIn](https://www.linkedin.com/in/arge-gangaprasad/)  | 💻 [GitHub](https://github.com/gangaprasadarge)
 
